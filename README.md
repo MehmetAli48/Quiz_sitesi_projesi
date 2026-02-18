@@ -4,6 +4,7 @@
 
 🧠 Quiz App Web Application
 
+
 Bu proje, saf HTML, CSS ve JavaScript kullanılarak geliştirilmiş interaktif bir Quiz (Bilgi Yarışması) uygulamasıdır.
 Kullanıcılar belirli bir süre içerisinde soruları cevaplar ve test sonunda doğru sayısını görebilir.
 
